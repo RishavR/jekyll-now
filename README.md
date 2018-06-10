@@ -15,7 +15,7 @@ Sigmoid is intended to elaborate on the stories of how a newbie hack starts out 
 
 # How I've Built this Blog? 
 
-### I've Built this Blog by forking Barry Clark's amazing work, [Jekyll Now](https://github.com/jekyll/jekyll). You too can start a static document blog without maintaining a DBMS or CMS by using [Jekyll](https://jekyllrb.com/). Furthermore, you can check out Barry's awesome Starter Guide here [Build a Blog Using Jekyll](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+I've Built this Blog by forking **Barry Clark's** amazing work, [Jekyll Now](https://github.com/jekyll/jekyll). You too can start a static document blog without maintaining a DBMS or CMS by using [Jekyll](https://jekyllrb.com/). Furthermore, you can check out Barry's awesome **Starter Guide** here [Build a Blog Using Jekyll](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
 ![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
