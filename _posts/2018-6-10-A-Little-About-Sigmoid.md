@@ -4,9 +4,9 @@ title: A Little About Sigmoid!
 ---
 
 
-# What the heck is Sigmod? 
+# What is this blog all about? 
 
-Sigmoid is **blog** intended to elaborate on the stories of how a **newbie hack with no formal experience** starts out exploring the wonderful world of [Machine Learning](https://www.blog.google/topics/machine-learning/) and [Artificial Intelligence](https://www.independent.co.uk/life-style/gadgets-and-tech/news/norman-psychopath-ai-bias-mit-artificial-intelligence-reddit-a8389011.html). I intend to post about my experiences and the projects I'm working on! 
+Sigmoid is a **blog** intended to elaborate on the stories of how a **newbie hack with no formal experience** starts out exploring the wonderful world of [Machine Learning](https://www.blog.google/topics/machine-learning/) and [Artificial Intelligence](https://www.independent.co.uk/life-style/gadgets-and-tech/news/norman-psychopath-ai-bias-mit-artificial-intelligence-reddit-a8389011.html). I intend to post about my experiences and the projects I'm working on! 
 
 <img src="https://www.kdnuggets.com/wp-content/uploads/machine-learning-everywhere.jpg"/>
 
@@ -19,13 +19,5 @@ Sigmoid is **blog** intended to elaborate on the stories of how a **newbie hack 
 <img src="https://www.researchgate.net/profile/Stephane_Canu2/publication/220842846/figure/fig1/AS:393978533957633@1470943210070/Figure-SVM-cost-function-with-sigmoid-kernel-illustrated-for-2-support-vectors-The.ppm"/>
 
 **Overall, in sigmoid, the hyperplane looks really cool and curvy and thus it's the name of this blog! So Welcome!**    
-
-
-
-# How I've Built this Blog? 
-
-I've Built this Blog by forking **Barry Clark's** amazing work, [Jekyll Now](https://github.com/jekyll/jekyll). You too can start a static document blog without maintaining a DBMS or CMS by using [Jekyll](https://jekyllrb.com/). Furthermore, you can check out Barry's awesome **Starter Guide** here [Build a Blog Using Jekyll](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
-
-![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
 
