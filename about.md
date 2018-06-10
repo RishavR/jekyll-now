@@ -7,10 +7,8 @@ permalink: /about/
 <div style="text-align:center"><img src ="images/dp.jpg" /></div>
 <div style="text-align:center"><h1>Rishav Rakshit</h1></div>
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+<div style="text-align:center"><p>I am a 3rd Year B.Tech Student of Sikkim Manipal Insitute of Technology, who belives in going out on a limb for the sake of experimentation.</p></div>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rishav_201500204@smit.smu.edu.in](mailto:rishav_201500204@smit.smu.edu.in)
