@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+<div style="text-align:center"><img src ="src_photos/dp.jpg" /></div>
+<div style="text-align:center"><h1>Rishav Rakshit</h1></div>
 
 ### More Information
 
