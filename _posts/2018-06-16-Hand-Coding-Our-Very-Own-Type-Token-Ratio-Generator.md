@@ -8,20 +8,20 @@ ABOUT
 
 When you ask it a question, such as “Who is Barrack Obama?”, it uses speech to text to convert your spoken words to text format.
 <br>  
-<img src="https://raw.githubusercontent.com/RishavR/TTR-Generator/master/SCREENS/Screenshot_20180616-152159.png" style="width:300px; height:500px"/>
+<img src="https://raw.githubusercontent.com/RishavR/TTR-Generator/master/SCREENS/Screenshot_20180616-152159.png" style="width:300px; height:500px;display:block;margin:0 auto;"/>
 
 
 **The underlying system then splits the sentence into in to individual words or tokens in a process called tokenizing. You may then say, “Ok, Google, translate it into Hindi”. Google will then take each of these tokens and convert them to Hindi via a process called “Machine Translation”.** 
 <br> 
-<img src="https://raw.githubusercontent.com/RishavR/TTR-Generator/master/SCREENS/Screenshot_20180616-152340.png" style="width:300px; height:500px"/>
+<img src="https://raw.githubusercontent.com/RishavR/TTR-Generator/master/SCREENS/Screenshot_20180616-152340.png" style="width:300px; height:500px;display:block;margin:0 auto;"/>
 <br> 
 **It will also check the converted words with the original sentence (i.e. “Who is Barack Obama”) and rearrange/convert the tenses of the translated words to ensure that translated sentence is grammatically correct. It might do this by recognizing the parts of speech using a “Parts of Speech Tagger". **
 <br>
- <img src="https://raw.githubusercontent.com/RishavR/TTR-Generator/master/SCREENS/Screenshot_20180616-152204.png" style="width:300px; height:500px"/>
+ <img src="https://raw.githubusercontent.com/RishavR/TTR-Generator/master/SCREENS/Screenshot_20180616-152204.png" style="width:300px; height:500px;display:block;margin:0 auto;"/>
 <br> 
- Finally, Google Assistant queries Wikipedia about “Barrack Obama” and then shows you the most important sentences in the Wikipedia article via a process called “**Summarization**”.  
+ Finally, Google Assistant queries Wikipedia about “Barrack Obama” and then shows you the most important sentences in the Wikipedia article via a process called Summarization.  
 
-**Although this is a very basic overview, it sure does help us understand how important NLP is and how it forms the underlying logic for some the applications that we use daily. **
+**Although this is a very basic overview, it sure does help us understand how important NLP is and how it forms the underlying logic for some the applications that we use daily.**
 
 ## Starting Out With Our First NLP Code
 In this article we are going to do something really simple – we are going to write a simple Python script to find th**e TTR or the Type-Token Ratio of a paragraph of text** and **determine whether that text is of good quality or not**. 
@@ -54,7 +54,7 @@ Although both of them have the same number of words.  (We shall later learn abou
 <div style="text-align:center"><h1>
 CODE
 </h1></div>
-**STEP 1: ** 
+**STEP 1:** 
 
 ##### We will have to import our dependencies. 
 For this script, we are using fantastic NLP library called [NLTK](https://www.nltk.org/). 
