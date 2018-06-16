@@ -1,9 +1,7 @@
-#NLP Basics: Hand-coding our very own TTR Generator
-
 <div style="text-align:center"><h1>
 ABOUT
 </h1></div>
-**Natural Language Processing** is a branch of Artificial Intelligence where we aim to take text or speech in natural languages (i.e. English or Hindi) and convert them into computer manipulable format. **We then use the converted data in various fields such as Analytics, Machine Translation, Part of Speech Tagging, Chatbots, Summarization etc.** The possibilities of using natural languages to extract data and then quantify them is endless. 
+<b>Natural Language Processing</b> is a branch of Artificial Intelligence where we aim to take text or speech in natural languages (i.e. English or Hindi) and convert them into computer manipulable format. <b>We then use the converted data in various fields such as Analytics, Machine Translation, Part of Speech Tagging, Chatbots, Summarization etc.</b> The possibilities of using natural languages to extract data and then quantify them is endless. 
 <img src="https://thehumancomputerexperiment.files.wordpress.com/2015/07/aibranches.jpg" style="display:block; margin: 0 auto;"/>
 **Let us take the example of using your Google Assistant. ** 
 
