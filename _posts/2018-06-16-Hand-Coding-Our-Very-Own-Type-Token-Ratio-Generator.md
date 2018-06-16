@@ -4,12 +4,13 @@ ABOUT
 <b>Natural Language Processing</b> is a branch of Artificial Intelligence where we aim to take text or speech in natural languages (i.e. English or Hindi) and convert them into computer manipulable format. <b>We then use the converted data in various fields such as Analytics, Machine Translation, Part of Speech Tagging, Chatbots, Summarization etc.</b> The possibilities of using natural languages to extract data and then quantify them is endless. 
 <br> 
 <img src="https://thehumancomputerexperiment.files.wordpress.com/2015/07/aibranches.jpg" style="display:block; margin: 0 auto;"/>
+<br>
 <b>Let us take the example of using your Google Assistant.</b>
 
 When you ask it a question, such as “Who is Barrack Obama?”, it uses speech to text to convert your spoken words to text format.
 <br>  
 <img src="https://raw.githubusercontent.com/RishavR/TTR-Generator/master/SCREENS/Screenshot_20180616-152159.png" style="width:300px; height:500px;display:block;margin:0 auto;"/>
-
+<br>
 
 **The underlying system then splits the sentence into in to individual words or tokens in a process called tokenizing. You may then say, “Ok, Google, translate it into Hindi”. Google will then take each of these tokens and convert them to Hindi via a process called “Machine Translation”.** 
 <br> 
@@ -20,10 +21,10 @@ When you ask it a question, such as “Who is Barrack Obama?”, it uses speech 
  <img src="https://raw.githubusercontent.com/RishavR/TTR-Generator/master/SCREENS/Screenshot_20180616-152204.png" style="width:300px; height:500px;display:block;margin:0 auto;"/>
 <br> 
  Finally, Google Assistant queries Wikipedia about “Barrack Obama” and then shows you the most important sentences in the Wikipedia article via a process called Summarization.  
-
+<br>
 **Although this is a very basic overview, it sure does help us understand how important NLP is and how it forms the underlying logic for some the applications that we use daily.**
-
-## Starting Out With Our First NLP Code
+<br>
+# Starting Out With Our First NLP Code
 In this article we are going to do something really simple – we are going to write a simple Python script to find th**e TTR or the Type-Token Ratio of a paragraph of text** and **determine whether that text is of good quality or not**. 
 
 *For any paragraph of text, the no. of types is the number of unique tokens (words) contained in that paragraph while the no. of tokens is the total number of words in that paragraph. *
