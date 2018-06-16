@@ -1,8 +1,3 @@
----
-layout: post
-title: A Little About Sigmoid!  
----
-
 
 # What is this blog all about? 
 
