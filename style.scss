@@ -19,9 +19,10 @@ html {
 
 body {
 	background: $white;
-  font-family: Verdana, Geneva, sans-serif;
-  font-size: 12px;
-  color: red;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 18px;
+  line-height:1.4;
+  color: $darkerGray;
 }
 
 .container {
@@ -32,7 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   color: $darkerGray;
   font-weight: bold;
 
