@@ -25,4 +25,6 @@ Another issue that may creep up is that you have to** upload your datasets** to 
 **Learning Resources on Using Google Colab** 
 
 [1]  [3 Essential Google Colaboratory Tips & Tricks](https://www.kdnuggets.com/2018/02/essential-google-colaboratory-tips-tricks.html)
+
+
 [2] [Deep Learning Development with Google Colab, TensorFlow, Keras & PyTorch](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html)
